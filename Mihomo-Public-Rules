@@ -1,0 +1,12 @@
+PROCESS-NAME,com.taobao.taobao
+PROCESS-NAME,com.xunmeng.pinduoduo
+
+
+
+
+
+
+
+# PROCESS-NAME,
+# 以后添加新 App，全部使用 PROCESS-NAME 前缀
+
