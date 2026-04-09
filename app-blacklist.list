@@ -2,6 +2,8 @@ PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.xunmeng.pinduoduo
 PROCESS-NAME,com.sankuai.meituan
 PROCESS-NAME,com.sankuai.meituan.takeoutnew
+# [Law 2] 华为应用验证域名精准直连
+DOMAIN,verifyapp.hicore.cc
 
 
 
