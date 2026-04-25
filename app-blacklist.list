@@ -4,7 +4,9 @@ PROCESS-NAME,com.sankuai.meituan
 PROCESS-NAME,com.sankuai.meituan.takeoutnew
 # [Law 2] 华为应用验证域名精准直连
 DOMAIN,verifyapp.hicore.cc
-
+PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity
+PROCESS-NAME,cmb.pb
+PROCESS-NAME,com.icbc
 
 
 
