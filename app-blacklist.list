@@ -9,9 +9,13 @@ PROCESS-NAME,cmb.pb
 PROCESS-NAME,com.icbc
 PROCESS-NAME,com.mfcloudcalculate.networkdisk
 PROCESS-NAME,emby.aosm.ccwu.cc
+
 # funbox模块服务器直连
 PROCESS-NAME,hicore.cc
 
+DOMAIN-KEYWORD,getui
+DOMAIN-KEYWORD,gepush
+DOMAIN-SUFFIX,alipayobjects.com
 
 
 # PROCESS-NAME,
