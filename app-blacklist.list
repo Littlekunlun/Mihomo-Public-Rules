@@ -16,6 +16,7 @@ PROCESS-NAME,hicore.cc
 DOMAIN-KEYWORD,getui
 DOMAIN-KEYWORD,gepush
 DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,iesdev.com
 
 
 # PROCESS-NAME,
