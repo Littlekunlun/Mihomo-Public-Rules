@@ -1,25 +1,21 @@
+# === 国内大厂 App 进程直连 ===
 PROCESS-NAME,com.taobao.taobao
 PROCESS-NAME,com.xunmeng.pinduoduo
 PROCESS-NAME,com.sankuai.meituan
 PROCESS-NAME,com.sankuai.meituan.takeoutnew
-# [Law 2] 华为应用验证域名精准直连
-DOMAIN,verifyapp.hicore.cc
 PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity
 PROCESS-NAME,cmb.pb
 PROCESS-NAME,com.icbc
 PROCESS-NAME,com.mfcloudcalculate.networkdisk
-PROCESS-NAME,emby.aosm.ccwu.cc
 
-# funbox模块服务器直连
-PROCESS-NAME,hicore.cc
-
+# === 个人专属域名直连 ===
+# Emby 域名直连
+DOMAIN-SUFFIX,aosm.ccwu.cc
+# 华为应用验证与 funbox 直连
+DOMAIN,verifyapp.hicore.cc
+DOMAIN-SUFFIX,hicore.cc
+# 国内推送与基础服务
 DOMAIN-KEYWORD,getui
 DOMAIN-KEYWORD,gepush
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,iesdev.com
-DOMAIN-SUFFIX,hicore.cc
-
-
-# PROCESS-NAME,
-# 以后添加新 App，全部使用 PROCESS-NAME 前缀
-
