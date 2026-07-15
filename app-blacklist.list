@@ -19,4 +19,4 @@ DOMAIN-SUFFIX,iesdev.com,直接连接
 
 # === 图片/CDN 加载慢补丁 ===
 PROCESS-NAME,com.coolapk.market,直接连接
-PROCESS-NAME,com.xiaoheihe.app,直接连接
+PROCESS-NAME,com.max.xiaoheihe,直接连接
