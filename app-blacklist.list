@@ -1,21 +1,22 @@
 # === 国内大厂 App 进程直连 ===
-PROCESS-NAME,com.taobao.taobao
-PROCESS-NAME,com.xunmeng.pinduoduo
-PROCESS-NAME,com.sankuai.meituan
-PROCESS-NAME,com.sankuai.meituan.takeoutnew
-PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity
-PROCESS-NAME,cmb.pb
-PROCESS-NAME,com.icbc
-PROCESS-NAME,com.mfcloudcalculate.networkdisk
+PROCESS-NAME,com.taobao.taobao,直接连接
+PROCESS-NAME,com.xunmeng.pinduoduo,直接连接
+PROCESS-NAME,com.sankuai.meituan,直接连接
+PROCESS-NAME,com.sankuai.meituan.takeoutnew,直接连接
+PROCESS-NAME,com.cmbchina.ccd.pluto.cmbActivity,直接连接
+PROCESS-NAME,cmb.pb,直接连接
+PROCESS-NAME,com.icbc,直接连接
+PROCESS-NAME,com.mfcloudcalculate.networkdisk,直接连接
 
 # === 个人专属域名直连 ===
-# Emby 域名直连
-DOMAIN-SUFFIX,aosm.ccwu.cc
-# 华为应用验证与 funbox 直连
-DOMAIN,verifyapp.hicore.cc
-DOMAIN-SUFFIX,hicore.cc
-# 国内推送与基础服务
-DOMAIN-KEYWORD,getui
-DOMAIN-KEYWORD,gepush
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,iesdev.com
+DOMAIN-SUFFIX,aosm.ccwu.cc,直接连接
+DOMAIN,verifyapp.hicore.cc,直接连接
+DOMAIN-SUFFIX,hicore.cc,直接连接
+DOMAIN-KEYWORD,getui,直接连接
+DOMAIN-KEYWORD,gepush,直接连接
+DOMAIN-SUFFIX,alipayobjects.com,直接连接
+DOMAIN-SUFFIX,iesdev.com,直接连接
+
+# === 图片/CDN 加载慢补丁 ===
+PROCESS-NAME,com.coolapk.market,直接连接
+PROCESS-NAME,com.xiaoheihe.app,直接连接
