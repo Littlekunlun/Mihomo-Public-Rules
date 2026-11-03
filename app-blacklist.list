@@ -16,6 +16,7 @@ DOMAIN-KEYWORD,getui,直接连接
 DOMAIN-KEYWORD,gepush,直接连接
 DOMAIN-SUFFIX,alipayobjects.com,直接连接
 DOMAIN-SUFFIX,iesdev.com,直接连接
+DOMAIN,wsx666.dpdns.org,直接连接
 
 # === 图片/CDN 加载慢补丁 ===
 # PROCESS-NAME,com.coolapk.market,直接连接
